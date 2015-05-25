@@ -1,0 +1,15 @@
+.image_container img
+{
+	width: 50%;
+}
+
+.save-container
+{
+	text-align: right;
+	margin: 0px 50px;
+}
+
+.button
+{
+	margin: 1px !important;
+}
